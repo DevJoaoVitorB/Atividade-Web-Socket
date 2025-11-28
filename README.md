@@ -201,7 +201,7 @@ O servidor Next.js iniciará na porta 3000 em modo produção.
 #### 6. Acessar a Aplicação
 
 -   **Acesso Local**: http://localhost:3000
--   **Acesso via Rede**: http://SEU_IP:3000 (exemplo: http://192.168.0.50:3000)
+-   **Acesso via Rede**: http://SEU_IP:3000 (exemplo: http://192.168.0.12:3000)
 
 <br>
 
@@ -357,4 +357,5 @@ O servidor Next.js iniciará na porta 3000 em modo produção.
 <br>
 
 ### 📚 Apresentação
+
 [Canva - Slides do Projeto]()
