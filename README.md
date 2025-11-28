@@ -5,6 +5,7 @@
 |          Nome          |                                        GitHub                                        |
 | :--------------------: | :----------------------------------------------------------------------------------: |
 | **João Vitor Bezerra** | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/DevJoaoVitorB) |
+| **Isaac Lira Nascimento** | [![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/IsaacLira42)   |
 
 <br>
 
