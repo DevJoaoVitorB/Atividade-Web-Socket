@@ -18,7 +18,7 @@ export default function MessageInput() {
                 id="search"
                 type="text"
                 value={message}
-                onChange={(event) => setMessage(event.target.value.trim())}
+                onChange={(event) => setMessage(event.target.value)}
                 disabled={!connection}
                 placeholder="Escreva uma Messagem"
                 className="
@@ -28,10 +28,13 @@ export default function MessageInput() {
                     focus-visible:ring-0
                 "
             />
-            <Button 
+            <Button
                 variant="outline"
                 size="icon-lg"
-                onClick={() => sendMessage(message)}
+                onClick={() => {
+                    sendMessage(message);
+                    setMessage("");
+                }}
                 disabled={!connection}
                 className="text-slate-800 cursor-pointer"
             > <Send/> </Button>

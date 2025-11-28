@@ -15,6 +15,10 @@ export const reducer = (state: ChatState, action: Action ) : ChatState => {
             return {
                 ...state, messages: action.payload
             }
+        case "ADD_MESSAGE":
+            return {
+                ...state, messages: [...state.messages, action.payload]
+            }
         case "SET_CONNECTION":
             return {
                 ...state, connection: action.payload
