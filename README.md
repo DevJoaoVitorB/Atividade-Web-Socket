@@ -357,4 +357,5 @@ O servidor Next.js iniciará na porta 3000 em modo produção.
 <br>
 
 ### 📚 Apresentação
-[Canva - Slides do Projeto]()
+
+[Canva - Slides do Projeto](https://www.canva.com/design/DAG6HXYpka4/Q_EDhgErn2XkbDJA8K78gQ/edit?utm_content=DAG6HXYpka4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
